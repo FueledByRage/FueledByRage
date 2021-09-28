@@ -13,6 +13,8 @@ My skills are summarized in:
 - Tried some gamedev 🎮
 
 
+📫 You can reach me on my personal [Linkedin profile](https://www.linkedin.com/in/erik-natan-moreira-santos-983865195/)
+
 <!--
 **FueledByRage/FueledByRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
