@@ -7,7 +7,7 @@ Here on Github you can check out on a few personal projects of mine.
 My skills are summarized in:
 
 - I'm more comfortable with javascript (Node and React included) 🏆
-- I'm currently learning Flutter, Dart, and PHP
+- I'm currently learning Flutter, Dart, and PHP 📝
 - I'm familiarized with Python 🐍
 - Know a few things about pentest 💻
 - Tried some gamedev 🎮
