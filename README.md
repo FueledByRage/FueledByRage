@@ -1,14 +1,13 @@
 ### Hello, there! :mage:
 
-My name's Erik and i'm a newly graduated System Analist and Developer.
+My name's Erik graduated System Analist and Developer and developer front end at [PurpleCats](https://purplecats.tech/)
 
 Here on Github you can check out on a few personal projects of mine.
 
 My skills are summarized in:
 
-- I'm more comfortable with javascript (Node and React included) 🏆
-- I'm currently learning Flutter, Dart, and PHP 📝
-- I'm familiarized with Python 🐍
+- I'm more comfortable with javascript/typescript (Node and React included) 🏆
+- I also work with PHP/Laravel and Java/Spring
 - Know a few things about pentest 💻
 - Tried some gamedev 🎮
 
