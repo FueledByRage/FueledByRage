@@ -1,6 +1,6 @@
 ### Hello, there! :mage:
 
-My name's Erik graduated System Analist and Developer and developer front end at [PurpleCats](https://purplecats.tech/)
+My name's Erik graduated System Analist and Developer and front end dev at [PurpleCats](https://purplecats.tech/)
 
 Here on Github you can check out on a few personal projects of mine.
 
