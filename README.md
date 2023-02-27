@@ -1,13 +1,13 @@
 ### Hello, there! :mage:
 
-My name's Erik graduated System Analist and Developer and front end dev at [PurpleCats](https://purplecats.tech/)
+My name's Erik graduated System Analist and Developer and fullstack dev [PurpleCats](https://purplecats.tech/)
 
 Here on Github you can check out on a few personal projects of mine.
 
 My skills are summarized in:
-
-- I'm more comfortable with javascript/typescript (Node and React included) 🏆
-- I also work with PHP/Laravel and Java/Spring
+- Node and React (Typescript's my favourite) 🏆🏆🏆🏆🏆
+- Java and Srpring are GOAT 🏆🏆🏆🏆
+- Can handle PHP and Laravel pretty well 🏆🏆🏆
 - Know a few things about pentest 💻
 - Tried some gamedev 🎮
 
