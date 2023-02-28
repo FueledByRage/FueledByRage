@@ -6,7 +6,7 @@ Here on Github you can check out on a few personal projects of mine.
 
 My skills are summarized in:
 - Node and React (Typescript's my favourite) 🏆🏆🏆🏆🏆
-- Java and Srpring are GOAT 🏆🏆🏆🏆
+- Java and Spring are GOAT 🏆🏆🏆🏆
 - Can handle PHP and Laravel pretty well 🏆🏆🏆
 - Know a few things about pentest 💻
 - Tried some gamedev 🎮
