@@ -1,6 +1,6 @@
 ### Hello, there! :mage:
 
-My name's Erik graduated System Analist and Developer and fullstack
+My name's Erik graduated System Analist and Developer and fullstack dev
 
 #### Xp:
 
