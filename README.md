@@ -10,7 +10,7 @@ I was responsible for developing and maintaining key web applications, including
 * Local Freelance Developer: Java/Spring Boot, PHP, and ReactJS, November 2020 to March 2022.
 I worked on the modernization process of local businesses by creating internal systems, task automations, and web pages.
 
-* Young Apprentice - José Carvalho Foundation, December 2018 to December 2019.
+* Apprentice - José Carvalho Foundation, December 2018 to December 2019.
 I worked to assist with administrative activities, using JavaScript and Python to manipulate files and automate tasks.
 
 Here on Github you can check out on a few personal projects of mine.
