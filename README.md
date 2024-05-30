@@ -2,9 +2,9 @@
 
 My name's Erik graduated System Analist and Developer and fullstack dev
 
-Java
-Typescript
-PHP
+- Java
+- Typescript
+- PHP
 
 📫 You can reach me on my personal [Linkedin profile](https://www.linkedin.com/in/erik-natan-moreira-santos-983865195/)
 
