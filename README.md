@@ -1,10 +1,11 @@
 ### Hello, there! :mage:
 
-My name's Erik graduated System Analist and Developer and fullstack dev
+My name's Erik graduated System Analist and Developer 
 
-- Java
-- Typescript
-- PHP
+- Fullstack Web Dev
+- Gamedev
+- Pentester
+
 
 📫 You can reach me on my personal [Linkedin profile](https://www.linkedin.com/in/erik-natan-moreira-santos-983865195/)
 
