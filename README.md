@@ -2,10 +2,7 @@
 
 My name's Erik graduated System Analist and Developer 
 
-- Fullstack Web Dev
-- Gamedev
-- Pentester
-
+Fullstack Web Dev & Gamedev
 
 📫 You can reach me on my personal [Linkedin profile](https://www.linkedin.com/in/erik-natan-moreira-santos-983865195/)
 
